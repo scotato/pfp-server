@@ -1,0 +1,40 @@
+{
+  "eyes": [
+    "annoyed",
+    "ded",
+    "doom",
+    "tired",
+    "wired"
+  ],
+  "heads": [
+    "blue",
+    "green",
+    "orange",
+    "purple",
+    "red"
+  ],
+  "mouths": [
+    "drool",
+    "sad",
+    "smile",
+    "surprise",
+    "tongue"
+  ],
+  "files": [
+    "eyes-annoyed.webp",
+    "eyes-ded.webp",
+    "eyes-doom.webp",
+    "eyes-tired.webp",
+    "eyes-wired.webp",
+    "head-blue.webp",
+    "head-green.webp",
+    "head-orange.webp",
+    "head-purple.webp",
+    "head-red.webp",
+    "mouth-drool.webp",
+    "mouth-sad.webp",
+    "mouth-smile.webp",
+    "mouth-surprise.webp",
+    "mouth-tongue.webp"
+  ]
+}
