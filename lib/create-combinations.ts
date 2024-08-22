@@ -46,7 +46,7 @@ const combinations: string[] = [];
 for (const eye of eyes) {
   for (const mouth of mouths) {
     for (const head of heads) {
-      combinations.push(`${eye}:${mouth}:${head}`);
+      combinations.push(`${eye}-${mouth}-${head}.webp`);
       flattenParts(eye, mouth, head);
     }
   }
