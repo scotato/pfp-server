@@ -52,5 +52,7 @@ for (const eye of eyes) {
   }
 }
 
-saveJSON({ eyes, heads, mouths, files }, "./public/parts.json");
-saveJSON(combinations, "./public/pfps.json");
+saveJSON(
+  { eyes, heads, mouths, files, combinations },
+  "./public/pfp-info.json"
+);
